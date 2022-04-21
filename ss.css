@@ -17,9 +17,20 @@ h1 {
     text-align: center;
 }
 
+h2 {
+    font-size: 40px;
+    text-align: center;
+}
+
 mark.green {
     color:#48a520;
     background: none;
+}
+
+#news {
+    background-color: rgb(75, 75, 75);
+    width: 50%;
+    height: 500px;
 }
 
 .ribbon {
