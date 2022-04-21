@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(44, 44, 44);
+    color: rgb(243, 243, 243);
+    font-family: "Ubuntu", sans-serif
+}
+
+p {
+    font-size: 24px;
+}
+
+a {
+    font-size: 24px;
+}
+
+h1 {
+    font-size: 64px;
+    text-align: center;
+}
+
+mark.green {
+    color:#48a520;
+    background: none;
+}
+
+.ribbon {
+    --p: 8px;
+    background-color: rgb(75, 75, 75);
+    height: 75px;
+    padding: 0 var(--p);
+    width: 100%;
+    position: relative;
+    right: var(--p);
+}
