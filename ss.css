@@ -29,8 +29,16 @@ mark.green {
 
 #news {
     background-color: rgb(75, 75, 75);
-    width: 50%;
+    width: 49.5%;
     height: 500px;
+    float: left
+}
+
+#projects {
+    background-color: rgb(75, 75, 75);
+    width: 49.5%;
+    height: 500px;
+    float: right
 }
 
 .ribbon {
