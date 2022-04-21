@@ -34,6 +34,8 @@ mark.green {
 
 #news {
     background-color: rgb(75, 75, 75);
+    overflow-x: hidden;
+    overflow-y: auto;
     width: 49.5%;
     height: 500px;
     float: left
@@ -41,10 +43,20 @@ mark.green {
 
 #projects {
     background-color: rgb(75, 75, 75);
+    overflow-x: hidden;
+    overflow-y: auto;
     width: 49.5%;
     height: 500px;
     float: right
 }
+
+#jsklogo {
+    max-height: 50px;
+    max-width: 59px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
 
 .ribbon {
     --p: 8px;
