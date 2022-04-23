@@ -10,6 +10,9 @@ p {
 
 a {
     font-size: 10px;
+    color: rgb(243, 243, 243);
+    font-family: "Ubuntu", sans-serif;
+    text-align: center;
 }
 
 h1 {
