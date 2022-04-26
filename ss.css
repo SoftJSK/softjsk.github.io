@@ -71,3 +71,11 @@ mark.green {
     position: relative;
     right: var(--p);
 }
+
+#projimg {
+    max-height: 150px;
+    max-width: 512px;
+    margin-left: auto;
+    margin-right: 15px;
+    display: block;
+  }
