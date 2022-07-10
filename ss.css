@@ -42,7 +42,8 @@ mark.green {
     overflow-y: auto;
     width: 49.5%;
     height: 500px;
-    float: left
+    float: left;
+    border-radius: 25px;
 }
 
 #projects {
@@ -51,7 +52,8 @@ mark.green {
     overflow-y: auto;
     width: 49.5%;
     height: 500px;
-    float: right
+    float: right;
+    border-radius: 25px;
 }
 
 #jsklogo {
